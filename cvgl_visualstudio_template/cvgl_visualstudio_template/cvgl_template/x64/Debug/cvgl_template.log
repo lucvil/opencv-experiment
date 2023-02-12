@@ -1,0 +1,170 @@
+﻿  watershed-sample.cpp
+C:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(9,9): error C2143: 構文エラー: ';' が '*' の前にありません。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(9,9): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(9,21): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(9,36): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(9,52): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(20,5): error C2065: 'CvPoint': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(20,13): error C2146: 構文エラー: ';' が、識別子 'pt' の前に必要です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(20,13): error C2065: 'pt': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(23,18): error C2065: 'CV_EVENT_LBUTTONDOWN': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(25,9): error C2065: 'pt': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(25,14): error C3861: 'cvPoint': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(26,27): error C2065: 'pt': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(26,41): error C3861: 'cvScalarAll': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(26,64): error C2065: 'CV_FILLED': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(26,9): error C3861: 'cvCircle': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(27,27): error C2065: 'pt': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(27,41): error C3861: 'cvScalarAll': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(27,9): error C3861: 'cvCircle': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(28,9): error C3861: 'cvShowImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(35,15): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(35,30): error C2065: 'dst_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(40,9): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(40,40): error C2065: 'CV_LOAD_IMAGE_ANYDEPTH': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(40,65): error C2065: 'CV_LOAD_IMAGE_ANYCOLOR': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(40,19): error C3861: 'cvLoadImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(41,41): error C2065: 'CV_LOAD_IMAGE_ANYDEPTH': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(41,66): error C2065: 'CV_LOAD_IMAGE_ANYCOLOR': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(41,20): error C3861: 'cvLoadImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(43,9): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(46,28): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(46,15): error C3861: 'cvCloneImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(47,5): error C2065: 'dst_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(47,28): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(47,15): error C3861: 'cvCloneImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(50,39): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(50,29): error C3861: 'cvGetSize': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(50,49): error C2065: 'IPL_DEPTH_32S': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(50,15): error C3861: 'cvCreateImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(51,5): error C3861: 'cvZero': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(54,28): error C2065: 'CV_WINDOW_AUTOSIZE': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(54,5): error C3861: 'cvNamedWindow': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(55,26): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(55,5): error C3861: 'cvShowImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(56,5): error C3861: 'cvSetMouseCallback': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(57,5): error C3861: 'cvWaitKey': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(60,17): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(60,5): error C3861: 'cvWatershed': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(65,25): error C3861: 'cvPtr2D': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(79,29): error C2039: 'cvarrToMat': 'cv' のメンバーではありません
+C:\opencv\build\include\opencv2\video\background_segm.hpp(49): message : 'cv' の宣言を確認してください
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(79,40): error C2065: 'dst_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(79,39): error C3861: 'cvarrToMat': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(80,29): error C2039: 'cvarrToMat': 'cv' のメンバーではありません
+C:\opencv\build\include\opencv2\video\background_segm.hpp(49): message : 'cv' の宣言を確認してください
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(80,40): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(80,39): error C3861: 'cvarrToMat': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(81,30): error C2039: 'cvarrToMat': 'cv' のメンバーではありません
+C:\opencv\build\include\opencv2\video\background_segm.hpp(49): message : 'cv' の宣言を確認してください
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(81,40): error C3861: 'cvarrToMat': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(95,25): error C3861: 'cvPtr2D': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(224,43): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(225,45): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(226,57): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(226,43): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(231,73): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(231,49): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(232,45): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(233,96): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(233,49): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(246,43): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(247,45): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(248,57): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(248,43): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(252,83): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(252,72): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(253,43): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(254,106): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(254,72): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(255,57): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(255,43): warning C4244: '引数': 'int' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(287,25): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(324,5): error C3861: 'cvWaitKey': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(327,5): error C3861: 'cvReleaseImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(328,5): error C3861: 'cvReleaseImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(329,21): error C2065: 'src_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(329,5): error C3861: 'cvReleaseImage': 識別子が見つかりませんでした
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(330,21): error C2065: 'dst_img': 定義されていない識別子です。
+C:\Users\denjo\Documents\3Aセメスター\Opencv実験\watershed-sample.cpp(330,5): error C3861: 'cvReleaseImage': 識別子が見つかりませんでした
